@@ -42,4 +42,4 @@ palabra, nro sugerencias, sugerencia1, ..., sugerenciaN
 Este archivo se irá actualizando en cada ejecucion agregando todas las palabras que se 
 hayan corregido.
 De esta forma, si se quieren volver a corregir alguna de estas palabras, esta ya estará corregida 
-en el cache y se extrae de ahi (Los datos del cache se guardan en una tabla hash).
+en el cache y se extrae de ahi.
