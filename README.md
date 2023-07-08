@@ -25,7 +25,7 @@ En este caso, cazca estaria a distancia 1, caza a distancia 2 y casa a distancia
 Ya si a distancia 3 todavia no llegó a la palabra buscada, corta la búsqueda.
 
 PARA COMPILAR: 
-Simplemente para compilar el programa se debe escribir "make".
+Para compilar el programa se debe escribir "make".
 
 PARA EJECUTAR:
 El programa se ejecuta escribiendo: ./corrector seguido de:
